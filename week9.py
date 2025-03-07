@@ -1,8 +1,4 @@
 # -*- coding: utf-8 -*-
-"""
-@author: aleja
-"""
-#Student Number: 201920969
 
 import matplotlib.pyplot as plt 
 import numpy as np
