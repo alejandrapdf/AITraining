@@ -1,5 +1,3 @@
-#Student Number: 201920969
-
 import numpy as np
 
 
